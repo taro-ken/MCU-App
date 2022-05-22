@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-MCU-App-MCU-AppUITests/Pods-MCU-App-MCU-AppUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/RxCocoa/RxCocoa.framework
+${BUILT_PRODUCTS_DIR}/RxRelay/RxRelay.framework
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework
+${BUILT_PRODUCTS_DIR}/XLPagerTabStrip/XLPagerTabStrip.framework
